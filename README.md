@@ -1,4 +1,8 @@
-#ALL FILES ARE IN RESOURCES -> GENERATOR FOLDER 
+# *********ALL FILES ARE IN RESOURCES -> GENERATOR FOLDER*******
+
+<BR>
+  ________________________________________________________________________
+<BR>
 
 # Supervised Machine Learning Homework - Predicting Credit Risk
 
